@@ -3,5 +3,11 @@ langchain_teddynote
 langchain_openai
 langchain_core
 
-#agent
+# agent
 langchain_experimental
+
+# UI
+streamlit
+
+# visualization
+matplotlib
