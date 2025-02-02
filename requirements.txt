@@ -1,0 +1,7 @@
+langchain
+langchain_teddynote
+langchain_openai
+langchain_core
+
+#agent
+langchain_experimental
