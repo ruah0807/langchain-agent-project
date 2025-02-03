@@ -8,8 +8,8 @@ from langchain_teddynote.messages import AgentStreamParser, AgentCallbacks
 from typing import List, Union
 import pandas as pd
 import matplotlib.pyplot as plt
-load_dotenv()
 
+load_dotenv()
 logging.langsmith("csv_agent")
 
 
